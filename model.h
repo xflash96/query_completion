@@ -1,0 +1,29 @@
+int LSTM_1_BIAS_SHAPE_0 = 1024;
+extern const float LSTM_1_BIAS[];
+
+int LSTM_1_KERNEL_SHAPE_0 = 47;
+int LSTM_1_KERNEL_SHAPE_1 = 1024;
+extern const float LSTM_1_KERNEL[];
+
+int LSTM_1_RECURRENT_KERNEL_SHAPE_0 = 256;
+int LSTM_1_RECURRENT_KERNEL_SHAPE_1 = 1024;
+extern const float LSTM_1_RECURRENT_KERNEL[];
+
+int LSTM_2_BIAS_SHAPE_0 = 1024;
+extern const float LSTM_2_BIAS[];
+
+int LSTM_2_KERNEL_SHAPE_0 = 256;
+int LSTM_2_KERNEL_SHAPE_1 = 1024;
+extern const float LSTM_2_KERNEL[];
+
+int LSTM_2_RECURRENT_KERNEL_SHAPE_0 = 256;
+int LSTM_2_RECURRENT_KERNEL_SHAPE_1 = 1024;
+extern const float LSTM_2_RECURRENT_KERNEL[];
+
+int DENSE_1_BIAS_SHAPE_0 = 47;
+extern const float DENSE_1_BIAS[];
+
+int DENSE_1_KERNEL_SHAPE_0 = 256;
+int DENSE_1_KERNEL_SHAPE_1 = 47;
+extern const float DENSE_1_KERNEL[];
+
